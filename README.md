@@ -18,5 +18,5 @@ Applying classification techniques (Machine Learning) to solve a typical supervi
 4. Hyperparameter Tuning: Optimizing model performance through techniques like grid search or cross-validation.
 
 ## **PowerPoint Presentation:**
-Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained.
+Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained. Students are required to present their findings to the lecturer.
 
