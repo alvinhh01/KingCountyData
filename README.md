@@ -1,7 +1,6 @@
 # KingCountyData
 **https://www.kaggle.com/datasets/harlfoxem/housesalesprediction/data**
 
-# **Singapore Polytechnic Specialist Diploma in data science and artificial intelligence (Machine Status Analysis)**
 **Please refer to the jupyter notebook for more details**
 
 **Summary of Assignment Requirements:**
