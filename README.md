@@ -21,8 +21,10 @@ Applying classification techniques (Machine Learning) to solve a typical supervi
 ## **PowerPoint Presentation:**
 Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained. Students are required to present their findings to the lecturer.
 
-**Outcome**
+**Outcome** 
+
 Generated a model that has a 
+
 1. **R-squared score of 0.8606**
 2. **Root Mean Squared Error (RMSE): 135101.194**
 
