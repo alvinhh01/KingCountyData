@@ -4,26 +4,28 @@
 # **Singapore Polytechnic Specialist Diploma in data science and artificial intelligence (Machine Status Analysis)**
 **Please refer to the jupyter notebook for more details**
 
-## **Summary of Assignment Requirements:**
-**Datasets:** 
-Applying classification techniques (Machine Learning) to solve a typical supervised machine learning problem - Machine status. This involves data preprocessing, training machine learning models, evaluating their performance, and presenting results clearly through code comments and visualizations.
+**Summary of Assignment Requirements:**
 
+The regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
+
+**Project Description:**
+
+This regression task focuses on predicting a continuous target variable using features from a given dataset. Students explored linear regression and advanced models like decision tree regression, random forest, and gradient boosting. The project emphasizes understanding residuals, model fit, and performance metrics like RMSE, MAE, and R².
 
 **Machine Learning Workflow:**
-1. Data Preprocessing: Cleaning and encoding categorical variables, handling missing values, and feature scaling.
 
-2. Model Development: Training multiple classification models using Scikit-learn.
+1. Data Preprocessing: Feature selection, normalization, and handling of missing values.
 
-3. Model Evaluation: Comparing model performance using confusion matrices and classification reports.
+2. Model Training: Building multiple regression models using Scikit-learn.
 
-4. Hyperparameter Tuning: Optimizing model performance through techniques like grid search or cross-validation.
+3. Model Evaluation: Assessing models using error metrics and visual inspection of residuals.
 
-## **PowerPoint Presentation:**
-Include a cover page, a slide with dataset URLs, slides explaining each dataset, the analysis process, and insights gained. Students are required to present their findings to the lecturer.
+4. Insights and Interpretation: Drawing conclusions from model results to understand predictive patterns.
+
+**PowerPoint Presentation:**
+Slides summarize the methodology, key visualizations, model comparisons, and overall insights gained from the regression analysis.
 
 **Outcome** 
-
-Generated a model that has a 
 
 1. **R-squared score of 0.8606**
 2. **Root Mean Squared Error (RMSE): 135101.194**
