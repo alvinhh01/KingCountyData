@@ -5,11 +5,11 @@
 
 **Summary of Assignment Requirements:**
 
-The regression task required students to apply supervised learning techniques to predict continuous numerical values. The goal was to explore and understand the use of regression models through practical application, interpretation of results, and clear documentation.
+The regression task involved applying supervised learning techniques to predict house prices. 
 
 **Project Description:**
 
-This regression task focuses on predicting a continuous target variable using features from a given dataset. Students explored linear regression and advanced models like decision tree regression, random forest, and gradient boosting. The project emphasizes understanding residuals, model fit, and performance metrics like RMSE, MAE, and R².
+This regression task focuses on predicting a continuous target variable using features from a given dataset. The project emphasizes understanding residuals, model fit, and performance metrics like RMSE, MAE, and R².
 
 **Machine Learning Workflow:**
 
